@@ -1,4 +1,4 @@
-<img src="cadenceml.svg" alt="CadenceML" width="200" />
+<img src="cadenceml.svg?raw=true" alt="CadenceML" width="200" />
 
 CadenceML is a generalized, machine-readable, human-friendly format (based on [YAML](https://en.wikipedia.org/wiki/YAML)) for describing [outreach cadences](https://www.saastr.com/a-hands-on-guide-to-creating-your-own-sales-development-process/) for salespeople, customer success managers, and other teams that need to reach people on a predefined schedule.
 
