@@ -60,11 +60,11 @@ CadenceML is a generalized, machine-readable, human-friendly format (based on [Y
 
 ## Examples
 
-We have collected many popular cadences in the CadenceML format at the [Dealbot cadence library](../cadences).
+We have collected many popular cadences in the CadenceML format at the [Dealbot cadence library](../../../cadences).
 
 ## Tools that use CadenceML
 
-* **[Dealbot](../dealbot)**: Open-source sales automation for Pipedrive
+* **[Dealbot](../../../dealbot)**: Open-source sales automation for Pipedrive
 
 *Do you mantain a tool that uses CadenceML? Please open a Pull Request to add it to the list!*
 
@@ -72,7 +72,7 @@ We have collected many popular cadences in the CadenceML format at the [Dealbot 
 
 We're actively seeking refinements to the format that 1) make it more broadly applicable and 2) clarify ambiguities. We're considerably more hesitant with backwards-incompatible changes.
 
-Please do not contribute specific cadences here, although they're gladly accepted at the [Dealbot cadence library](../cadences)!
+Please do not contribute specific cadences here, although they're gladly accepted at the [Dealbot cadence library](../../../cadences)!
 
 ### To contribute
 
@@ -84,4 +84,4 @@ Simply make your proposed change to this README and submit a Pull Request.
 
 [Faraday](http://www.faraday.io) is a beautiful, map-driven customer outreach and analytics platform. Visualize your customers and explore hundreds of built-in household level attributes. Build audiences of customers, leads, and brand new prospects, then reach them online and off.
 
-Faraday started the [Dealbot](../dealbot) project to share the open-source sales automation system we built on top of Pipedrive. Having a universal way to describe our cadences was a key prerequisite for this project, so we created CadenceML.
+Faraday started the [Dealbot](../../../dealbot) project to share the open-source sales automation system we built on top of Pipedrive. Having a universal way to describe our cadences was a key prerequisite for this project, so we created CadenceML.
